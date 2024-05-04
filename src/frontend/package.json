@@ -15,7 +15,7 @@
     "nuxt": "^3.11.2",
     "sockjs-client": "^1.6.0",
     "webstomp-client": "^1.2.6",
-    "marked": "4.0.10"
+    "marked": "4.3.0"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^3.6.3",
